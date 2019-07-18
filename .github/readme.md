@@ -39,3 +39,4 @@ Documentation and Other Links:
 * Usage Documentation [docs.drone.io/getting-started](http://docs.drone.io/getting-started/)
 * Plugin Index [plugins.drone.io](http://plugins.drone.io/)
 * Getting Help [discourse.drone.io](https://discourse.drone.io)
+*--------------------------End---------------------------------*
